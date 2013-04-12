@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating
+END
+LdapCompensatingTransactionOperationFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/LdapCompensatingTransactionOperationFactoryTest.java
+END
+LdapTransactionUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/LdapTransactionUtilsTest.java
+END
+RenameOperationExecutorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/RenameOperationExecutorTest.java
+END
+RebindOperationRecorderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/RebindOperationRecorderTest.java
+END
+BindOperationExecutorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/BindOperationExecutorTest.java
+END
+ModifyAttributesOperationExecutorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/ModifyAttributesOperationExecutorTest.java
+END
+RenameOperationRecorderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/RenameOperationRecorderTest.java
+END
+UnbindOperationExecutorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/UnbindOperationExecutorTest.java
+END
+BindOperationRecorderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/BindOperationRecorderTest.java
+END
+RebindOperationExecutorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/RebindOperationExecutorTest.java
+END
+ModifyAttributesOperationRecorderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/ModifyAttributesOperationRecorderTest.java
+END
+UnbindOperationRecorderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/UnbindOperationRecorderTest.java
+END

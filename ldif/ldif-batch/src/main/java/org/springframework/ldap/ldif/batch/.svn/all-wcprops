@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-batch/src/main/java/org/springframework/ldap/ldif/batch
+END
+LdifAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-batch/src/main/java/org/springframework/ldap/ldif/batch/LdifAggregator.java
+END
+LdifReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-batch/src/main/java/org/springframework/ldap/ldif/batch/LdifReader.java
+END
+RecordMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-batch/src/main/java/org/springframework/ldap/ldif/batch/RecordMapper.java
+END
+RecordCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-batch/src/main/java/org/springframework/ldap/ldif/batch/RecordCallbackHandler.java
+END
+MappingLdifReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-batch/src/main/java/org/springframework/ldap/ldif/batch/MappingLdifReader.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-batch/src/main/java/org/springframework/ldap/ldif/batch/package.html
+END

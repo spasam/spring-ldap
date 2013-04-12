@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/java/org/springframework/ldap/core
+END
+DistinguishedNameEditorITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/java/org/springframework/ldap/core/DistinguishedNameEditorITest.java
+END
+DnParsePerformanceITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/java/org/springframework/ldap/core/DnParsePerformanceITest.java
+END

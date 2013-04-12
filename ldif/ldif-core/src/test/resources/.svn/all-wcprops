@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/test/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/test/resources/log4j.properties
+END
+test.ldif
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/test/resources/test.ldif
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/main/java/org/springframework/ldap/itest/transaction/compensating/manager/hibernate
+END
+OrgPersonDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/main/java/org/springframework/ldap/itest/transaction/compensating/manager/hibernate/OrgPersonDao.java
+END
+DummyDaoLdapAndHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/main/java/org/springframework/ldap/itest/transaction/compensating/manager/hibernate/DummyDaoLdapAndHibernateImpl.java
+END
+OrgPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/main/java/org/springframework/ldap/itest/transaction/compensating/manager/hibernate/OrgPerson.java
+END

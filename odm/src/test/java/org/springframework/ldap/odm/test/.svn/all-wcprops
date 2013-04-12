@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/test/java/org/springframework/ldap/odm/test
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/test/java/org/springframework/ldap/odm/test/Person.java
+END
+UriConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/test/java/org/springframework/ldap/odm/test/UriConverter.java
+END
+TestsWithJdepend.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/test/java/org/springframework/ldap/odm/test/TestsWithJdepend.java
+END
+TestManagerConverterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/test/java/org/springframework/ldap/odm/test/TestManagerConverterFactory.java
+END
+TestLdap.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/test/java/org/springframework/ldap/odm/test/TestLdap.java
+END
+OrganizationalUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/test/java/org/springframework/ldap/odm/test/OrganizationalUnit.java
+END
+TestConverterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/test/java/org/springframework/ldap/odm/test/TestConverterManager.java
+END
+TestSchemaViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/test/java/org/springframework/ldap/odm/test/TestSchemaViewer.java
+END
+TestSchemaToJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/test/java/org/springframework/ldap/odm/test/TestSchemaToJava.java
+END

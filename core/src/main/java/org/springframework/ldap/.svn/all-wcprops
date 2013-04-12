@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap
+END
+InvalidAttributeIdentifierException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/InvalidAttributeIdentifierException.java
+END
+AuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/AuthenticationException.java
+END
+InsufficientResourcesException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/InsufficientResourcesException.java
+END
+MalformedLinkException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/MalformedLinkException.java
+END
+ContextNotEmptyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/ContextNotEmptyException.java
+END
+TimeLimitExceededException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/TimeLimitExceededException.java
+END
+NoPermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/NoPermissionException.java
+END
+SchemaViolationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/SchemaViolationException.java
+END
+LinkLoopException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/LinkLoopException.java
+END
+InvalidNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/InvalidNameException.java
+END
+AttributeModificationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/AttributeModificationException.java
+END
+PartialResultException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/PartialResultException.java
+END
+LinkException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/LinkException.java
+END
+InvalidAttributesException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/InvalidAttributesException.java
+END
+BadLdapGrammarException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/BadLdapGrammarException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/package.html
+END
+InvalidSearchControlsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/InvalidSearchControlsException.java
+END
+SizeLimitExceededException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/SizeLimitExceededException.java
+END
+NamingSecurityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/NamingSecurityException.java
+END
+ReferralException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/ReferralException.java
+END
+ServiceUnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/ServiceUnavailableException.java
+END
+ConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/ConfigurationException.java
+END
+InvalidAttributeValueException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/InvalidAttributeValueException.java
+END
+NameAlreadyBoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/NameAlreadyBoundException.java
+END
+InvalidSearchFilterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/InvalidSearchFilterException.java
+END
+NoSuchAttributeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/NoSuchAttributeException.java
+END
+CannotProceedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/CannotProceedException.java
+END
+OperationNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/OperationNotSupportedException.java
+END
+NoInitialContextException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/NoInitialContextException.java
+END
+NameNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/NameNotFoundException.java
+END
+InterruptedNamingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/InterruptedNamingException.java
+END
+LdapReferralException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/LdapReferralException.java
+END
+UncategorizedLdapException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/UncategorizedLdapException.java
+END
+NotContextException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/NotContextException.java
+END
+LimitExceededException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/LimitExceededException.java
+END
+CommunicationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/CommunicationException.java
+END
+AuthenticationNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/AuthenticationNotSupportedException.java
+END
+AttributeInUseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/AttributeInUseException.java
+END
+NamingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/NamingException.java
+END

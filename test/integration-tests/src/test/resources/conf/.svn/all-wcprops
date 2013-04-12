@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf
+END
+commonTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/commonTestContext.xml
+END
+ldapTemplateNoBaseSuffixTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/ldapTemplateNoBaseSuffixTestContext.xml
+END
+ldapAndHibernateTransactionTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/ldapAndHibernateTransactionTestContext.xml
+END
+ldapAndJdbcTransactionTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/ldapAndJdbcTransactionTestContext.xml
+END
+baseLdapPathPostProcessorTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/baseLdapPathPostProcessorTestContext.xml
+END
+baseLdapPathPostProcessorMultiContextSourceTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/baseLdapPathPostProcessorMultiContextSourceTestContext.xml
+END
+ldapTemplateObjectBindTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/ldapTemplateObjectBindTestContext.xml
+END
+baseLdapPathPostProcessorPropertyOverrideTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/baseLdapPathPostProcessorPropertyOverrideTestContext.xml
+END
+baseLdapPathPostProcessorTransactionTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/baseLdapPathPostProcessorTransactionTestContext.xml
+END
+ldapTemplateAcegiTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/ldapTemplateAcegiTestContext.xml
+END
+ldapContextSourceTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/ldapContextSourceTestContext.xml
+END
+ldap.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/ldap.properties
+END
+apacheDsContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/apacheDsContext.xml
+END
+rootContextSourceTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/rootContextSourceTestContext.xml
+END
+distinguishedNameEditorTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/distinguishedNameEditorTestContext.xml
+END
+baseLdapPathPostProcessorMultiContextSourceOneSpecTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/baseLdapPathPostProcessorMultiContextSourceOneSpecTestContext.xml
+END
+ldapTemplateTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/ldapTemplateTestContext.xml
+END
+OrgPerson.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/OrgPerson.hbm.xml
+END
+baseLdapPathPostProcessorNoContextSourceTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/baseLdapPathPostProcessorNoContextSourceTestContext.xml
+END
+ldapTemplateTransactionTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/ldapTemplateTransactionTestContext.xml
+END
+hardcodedFilterTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/hardcodedFilterTestContext.xml
+END
+simpleLdapTemplateTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/resources/conf/simpleLdapTemplateTestContext.xml
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-openldap/src/test/java/org/springframework/ldap/core/support
+END
+DigestMd5AuthenticationITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-openldap/src/test/java/org/springframework/ldap/core/support/DigestMd5AuthenticationITest.java
+END

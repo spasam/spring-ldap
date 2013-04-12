@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/sandbox/src/main/java/org/springframework/ldap/util
+END
+AttributeValueProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/sandbox/src/main/java/org/springframework/ldap/util/AttributeValueProcessor.java
+END
+RangeOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/sandbox/src/main/java/org/springframework/ldap/util/RangeOption.java
+END
+IncrementalAttributeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/sandbox/src/main/java/org/springframework/ldap/util/IncrementalAttributeMapper.java
+END
+ListAttributeValueProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/sandbox/src/main/java/org/springframework/ldap/util/ListAttributeValueProcessor.java
+END

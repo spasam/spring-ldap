@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 62
+.classpath
+.project
+.settings
+target
+spring-ldap-sandbox.iml
+
+
+END

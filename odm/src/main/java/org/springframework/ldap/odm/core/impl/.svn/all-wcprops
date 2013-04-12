@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/core/impl
+END
+CaseIgnoreString.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/core/impl/CaseIgnoreString.java
+END
+InvalidEntryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/core/impl/InvalidEntryException.java
+END
+ObjectMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/core/impl/ObjectMetaData.java
+END
+OdmManagerImplFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/core/impl/OdmManagerImplFactoryBean.java
+END
+OdmManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/core/impl/OdmManagerImpl.java
+END
+MetaDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/core/impl/MetaDataException.java
+END
+AttributeMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/core/impl/AttributeMetaData.java
+END
+UnmanagedClassException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/core/impl/UnmanagedClassException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/core/impl/package-info.java
+END

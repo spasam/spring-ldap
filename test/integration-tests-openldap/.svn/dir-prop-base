@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 85
+.settings
+target
+.classpath
+.project
+bin
+spring-ldap-openldap-integration-tests.iml
+
+
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/java/org/springframework/ldap/transaction/compensating/manager
+END
+ContextSourceTransactionManagerIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/java/org/springframework/ldap/transaction/compensating/manager/ContextSourceTransactionManagerIntegrationTest.java
+END
+ContextSourceAndDataSourceTransactionManagerIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests/src/test/java/org/springframework/ldap/transaction/compensating/manager/ContextSourceAndDataSourceTransactionManagerIntegrationTest.java
+END

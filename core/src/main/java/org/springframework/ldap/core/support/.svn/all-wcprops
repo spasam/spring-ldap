@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support
+END
+AbstractContextSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/AbstractContextSource.java
+END
+AggregateDirContextProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/AggregateDirContextProcessor.java
+END
+ExternalTlsDirContextAuthenticationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/ExternalTlsDirContextAuthenticationStrategy.java
+END
+DefaultTlsDirContextAuthenticationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/DefaultTlsDirContextAuthenticationStrategy.java
+END
+DefaultDirObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/DefaultDirObjectFactory.java
+END
+DirContextSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/DirContextSource.java
+END
+DirContextAuthenticationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/DirContextAuthenticationStrategy.java
+END
+CountNameClassPairCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/CountNameClassPairCallbackHandler.java
+END
+LdapContextSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/LdapContextSource.java
+END
+SingleContextSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/SingleContextSource.java
+END
+BaseLdapPathAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/BaseLdapPathAware.java
+END
+BaseLdapPathSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/BaseLdapPathSource.java
+END
+CollectingAuthenticationErrorCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/CollectingAuthenticationErrorCallback.java
+END
+DigestMd5DirContextAuthenticationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/DigestMd5DirContextAuthenticationStrategy.java
+END
+AbstractTlsDirContextAuthenticationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/AbstractTlsDirContextAuthenticationStrategy.java
+END
+AbstractContextMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/AbstractContextMapper.java
+END
+BaseLdapPathContextSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/BaseLdapPathContextSource.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/package.html
+END
+SimpleDirContextAuthenticationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/SimpleDirContextAuthenticationStrategy.java
+END
+LookupAttemptingCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/LookupAttemptingCallback.java
+END
+BaseLdapPathBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/core/support/BaseLdapPathBeanPostProcessor.java
+END

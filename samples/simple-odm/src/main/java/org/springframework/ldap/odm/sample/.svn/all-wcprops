@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/simple-odm/src/main/java/org/springframework/ldap/odm/sample
+END
+SimplePerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/simple-odm/src/main/java/org/springframework/ldap/odm/sample/SimplePerson.java
+END
+SearchForPeople.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/simple-odm/src/main/java/org/springframework/ldap/odm/sample/SearchForPeople.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/simple-odm/src/main/java/org/springframework/ldap/odm/sample/package-info.java
+END

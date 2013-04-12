@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 79
+.settings
+target
+.classpath
+.project
+spring-ldap-sunone-integration-tests.iml
+
+
+END

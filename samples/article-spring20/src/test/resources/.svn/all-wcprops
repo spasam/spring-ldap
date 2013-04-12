@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/article-spring20/src/test/resources
+END
+setup_data.ldif
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/article-spring20/src/test/resources/setup_data.ldif
+END

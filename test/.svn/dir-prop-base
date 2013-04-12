@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 78
+target
+spring-ldap-integration-tests-parent.iml
+.settings
+.classpath
+.project
+
+END

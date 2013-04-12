@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/manager
+END
+TransactionAwareContextSourceProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/manager/TransactionAwareContextSourceProxyTest.java
+END
+TransactionAwareDirContextInvocationHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/manager/TransactionAwareDirContextInvocationHandlerTest.java
+END
+ContextSourceTransactionManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/manager/ContextSourceTransactionManagerTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-openldap/src/test/resources/conf
+END
+ldapTemplateDigestMd5TestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-openldap/src/test/resources/conf/ldapTemplateDigestMd5TestContext.xml
+END
+ldap.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-openldap/src/test/resources/conf/ldap.properties
+END
+ldapTemplateTestContext-tls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-openldap/src/test/resources/conf/ldapTemplateTestContext-tls.xml
+END
+ldapTemplateTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-openldap/src/test/resources/conf/ldapTemplateTestContext.xml
+END

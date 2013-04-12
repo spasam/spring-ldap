@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/pool
+END
+MutableDelegatingLdapContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/pool/MutableDelegatingLdapContextTest.java
+END
+DelegatingDirContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/pool/DelegatingDirContextTest.java
+END
+DelegatingContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/pool/DelegatingContextTest.java
+END
+AbstractPoolTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/pool/AbstractPoolTestCase.java
+END
+DelegatingLdapContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/pool/DelegatingLdapContextTest.java
+END

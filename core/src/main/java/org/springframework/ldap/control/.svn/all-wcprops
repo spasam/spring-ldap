@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/control
+END
+PagedResultsDirContextProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/control/PagedResultsDirContextProcessor.java
+END
+CreateControlFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/control/CreateControlFailedException.java
+END
+PagedResultsCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/control/PagedResultsCookie.java
+END
+PagedResultsRequestControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/control/PagedResultsRequestControl.java
+END
+SortControlDirContextProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/control/SortControlDirContextProcessor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/control/package.html
+END
+PagedResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/control/PagedResult.java
+END
+AbstractRequestControlDirContextProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/control/AbstractRequestControlDirContextProcessor.java
+END
+AbstractFallbackRequestAndResponseControlDirContextProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/control/AbstractFallbackRequestAndResponseControlDirContextProcessor.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/tools
+END
+SyntaxToJavaClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/tools/SyntaxToJavaClass.java
+END
+SchemaViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/tools/SchemaViewer.java
+END
+SchemaReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/tools/SchemaReader.java
+END
+AttributeSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/tools/AttributeSchema.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/tools/package-info.java
+END
+SchemaToJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/tools/SchemaToJava.java
+END
+ObjectSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/odm/src/main/java/org/springframework/ldap/odm/tools/ObjectSchema.java
+END

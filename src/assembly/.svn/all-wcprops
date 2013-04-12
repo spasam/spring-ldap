@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/assembly
+END
+with-dependencies.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/assembly/with-dependencies.xml
+END
+sources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/assembly/sources.xml
+END
+minimal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/assembly/minimal.xml
+END
+all.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/assembly/all.xml
+END
+docs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/assembly/docs.xml
+END

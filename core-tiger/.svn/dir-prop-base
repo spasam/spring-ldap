@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 64
+.settings
+target
+.classpath
+.project
+spring-ldap-core-tiger.iml
+
+END

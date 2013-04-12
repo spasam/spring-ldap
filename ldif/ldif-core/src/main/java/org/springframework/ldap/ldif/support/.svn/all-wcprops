@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/ldif/support
+END
+LineIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/ldif/support/LineIdentifier.java
+END
+AttributeValidationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/ldif/support/AttributeValidationPolicy.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/ldif/support/package.html
+END
+SeparatorPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/ldif/support/SeparatorPolicy.java
+END
+DefaultAttributeValidationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/ldif/support/DefaultAttributeValidationPolicy.java
+END

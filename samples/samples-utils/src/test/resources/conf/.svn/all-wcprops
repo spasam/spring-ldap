@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/samples-utils/src/test/resources/conf
+END
+ldap.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/samples-utils/src/test/resources/conf/ldap.properties
+END
+commonTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/samples-utils/src/test/resources/conf/commonTestContext.xml
+END
+testContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/samples-utils/src/test/resources/conf/testContext.xml
+END

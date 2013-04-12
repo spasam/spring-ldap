@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/sandbox/src/test/java/org/springframework/ldap/control
+END
+VirtualListViewControlDirContextProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/sandbox/src/test/java/org/springframework/ldap/control/VirtualListViewControlDirContextProcessorTest.java
+END
+ControlArrayMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/sandbox/src/test/java/org/springframework/ldap/control/ControlArrayMatcher.java
+END

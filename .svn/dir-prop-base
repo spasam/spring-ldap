@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 102
+integration-repo
+target
+spring-ldap.iws
+spring-ldap.iml
+spring-ldap.ipr
+.settings
+.classpath
+.project
+
+END

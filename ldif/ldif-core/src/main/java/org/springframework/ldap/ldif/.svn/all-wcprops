@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/ldif
+END
+InvalidAttributeFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/ldif/InvalidAttributeFormatException.java
+END
+InvalidRecordFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/ldif/InvalidRecordFormatException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/ldif/package.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/pool/validation
+END
+DirContextValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/pool/validation/DirContextValidator.java
+END
+DefaultDirContextValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/pool/validation/DefaultDirContextValidator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/pool/validation/package.html
+END

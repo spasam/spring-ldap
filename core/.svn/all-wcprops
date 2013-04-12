@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/.gitignore
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/.springBeans
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/pom.xml
+END

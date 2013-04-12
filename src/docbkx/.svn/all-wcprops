@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx
+END
+configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/configuration.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/index.xml
+END
+pooling.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/pooling.xml
+END
+transactions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/transactions.xml
+END
+simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/simple.xml
+END
+user-authentication.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/user-authentication.xml
+END
+dirobjectfactory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/dirobjectfactory.xml
+END
+ldif-parsing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/ldif-parsing.xml
+END
+odm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/odm.xml
+END
+basic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/basic.xml
+END
+executors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/executors.xml
+END
+contextprocessor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/contextprocessor.xml
+END
+preface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/preface.xml
+END
+overview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/src/docbkx/overview.xml
+END

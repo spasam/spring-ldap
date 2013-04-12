@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/manager
+END
+ContextSourceAndDataSourceTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/manager/ContextSourceAndDataSourceTransactionManager.java
+END
+ContextSourceTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/manager/ContextSourceTransactionManager.java
+END
+ContextSourceAndHibernateTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/manager/ContextSourceAndHibernateTransactionManager.java
+END
+TransactionAwareContextSourceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/manager/TransactionAwareContextSourceProxy.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/manager/package.html
+END
+ContextSourceTransactionManagerDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/manager/ContextSourceTransactionManagerDelegate.java
+END
+DirContextHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/manager/DirContextHolder.java
+END
+TransactionAwareDirContextInvocationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/manager/TransactionAwareDirContextInvocationHandler.java
+END

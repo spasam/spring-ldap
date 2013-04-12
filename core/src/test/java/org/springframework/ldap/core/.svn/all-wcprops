@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core
+END
+LdapEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/LdapEncoderTest.java
+END
+CollectingNameClassPairCallbackHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/CollectingNameClassPairCallbackHandlerTest.java
+END
+DirContextAdapterBugTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/DirContextAdapterBugTest.java
+END
+ContextMapperCallbackHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/ContextMapperCallbackHandlerTest.java
+END
+DirContextAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/DirContextAdapterTest.java
+END
+DistinguishedNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/DistinguishedNameTest.java
+END
+LdapRdnTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/LdapRdnTest.java
+END
+LdapTemplateRenameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/LdapTemplateRenameTest.java
+END
+LdapTemplateLookupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/LdapTemplateLookupTest.java
+END
+LdapRdnComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/LdapRdnComponentTest.java
+END
+LdapTemplateListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/LdapTemplateListTest.java
+END
+DistinguishedNameEditorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/DistinguishedNameEditorTest.java
+END
+LdapTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/LdapTemplateTest.java
+END
+RequestControlMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/core/RequestControlMatcher.java
+END

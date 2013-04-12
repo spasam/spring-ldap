@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/demos/demo/src/main/java/org/springframework/ldap/demo/dao
+END
+PersonDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/demos/demo/src/main/java/org/springframework/ldap/demo/dao/PersonDao.java
+END
+PersonDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/demos/demo/src/main/java/org/springframework/ldap/demo/dao/PersonDaoImpl.java
+END

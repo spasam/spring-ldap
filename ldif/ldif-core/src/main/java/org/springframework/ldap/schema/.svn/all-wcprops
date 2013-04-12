@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/schema
+END
+DefaultSchemaSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/schema/DefaultSchemaSpecification.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/schema/package.html
+END
+Specification.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/schema/Specification.java
+END
+BasicSchemaSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-core/src/main/java/org/springframework/ldap/schema/BasicSchemaSpecification.java
+END

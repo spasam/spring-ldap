@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/transaction/compensating/support
+END
+CompensatingTransactionObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/transaction/compensating/support/CompensatingTransactionObject.java
+END
+AbstractCompensatingTransactionManagerDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/transaction/compensating/support/AbstractCompensatingTransactionManagerDelegate.java
+END
+CompensatingTransactionHolderSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/transaction/compensating/support/CompensatingTransactionHolderSupport.java
+END
+CompensatingTransactionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/transaction/compensating/support/CompensatingTransactionUtils.java
+END
+DefaultCompensatingTransactionOperationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/transaction/compensating/support/DefaultCompensatingTransactionOperationManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/transaction/compensating/support/package.html
+END

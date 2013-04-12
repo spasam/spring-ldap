@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-batch/src/test/java/org/springframework/ldap/ldif/batch
+END
+MyMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-batch/src/test/java/org/springframework/ldap/ldif/batch/MyMapper.java
+END
+MappingLdifReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-batch/src/test/java/org/springframework/ldap/ldif/batch/MappingLdifReaderTest.java
+END
+LdifReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/ldif/ldif-batch/src/test/java/org/springframework/ldap/ldif/batch/LdifReaderTest.java
+END

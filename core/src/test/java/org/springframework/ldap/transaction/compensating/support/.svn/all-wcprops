@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/support
+END
+DifferentSubtreeTempEntryRenamingStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/support/DifferentSubtreeTempEntryRenamingStrategyTest.java
+END
+DefaultTempEntryRenamingStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/test/java/org/springframework/ldap/transaction/compensating/support/DefaultTempEntryRenamingStrategyTest.java
+END

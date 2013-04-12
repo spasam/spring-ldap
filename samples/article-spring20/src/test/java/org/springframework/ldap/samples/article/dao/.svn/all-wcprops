@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/article-spring20/src/test/java/org/springframework/ldap/samples/article/dao
+END
+TraditionalPersonDaoImplIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/article-spring20/src/test/java/org/springframework/ldap/samples/article/dao/TraditionalPersonDaoImplIntegrationTest.java
+END
+PersonDaoImplIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/article-spring20/src/test/java/org/springframework/ldap/samples/article/dao/PersonDaoImplIntegrationTest.java
+END
+AbstractPersonDaoIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/samples/article-spring20/src/test/java/org/springframework/ldap/samples/article/dao/AbstractPersonDaoIntegrationTest.java
+END

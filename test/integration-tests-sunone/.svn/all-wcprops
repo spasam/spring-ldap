@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-sunone
+END
+.springBeans
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-sunone/.springBeans
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-sunone/pom.xml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-sunone/.gitignore
+END

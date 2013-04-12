@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating
+END
+ModifyAttributesOperationRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/ModifyAttributesOperationRecorder.java
+END
+RenameOperationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/RenameOperationExecutor.java
+END
+LdapTransactionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/LdapTransactionUtils.java
+END
+LdapCompensatingTransactionOperationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/LdapCompensatingTransactionOperationFactory.java
+END
+RebindOperationRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/RebindOperationRecorder.java
+END
+NullOperationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/NullOperationExecutor.java
+END
+BindOperationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/BindOperationExecutor.java
+END
+RenameOperationRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/RenameOperationRecorder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/package.html
+END
+UnbindOperationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/UnbindOperationExecutor.java
+END
+NullOperationRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/NullOperationRecorder.java
+END
+BindOperationRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/BindOperationRecorder.java
+END
+UnbindOperationRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/UnbindOperationRecorder.java
+END
+TempEntryRenamingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/TempEntryRenamingStrategy.java
+END
+ModifyAttributesOperationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/ModifyAttributesOperationExecutor.java
+END
+RebindOperationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core/src/main/java/org/springframework/ldap/transaction/compensating/RebindOperationExecutor.java
+END

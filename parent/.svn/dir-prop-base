@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 60
+target
+spring-ldap-parent.iml
+.settings
+.classpath
+.project
+
+END

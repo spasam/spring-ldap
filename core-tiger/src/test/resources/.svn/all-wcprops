@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core-tiger/src/test/resources
+END
+test.ldif
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/core-tiger/src/test/resources/test.ldif
+END

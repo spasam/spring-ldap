@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-sunone/src/test/resources/conf
+END
+ldap.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-sunone/src/test/resources/conf/ldap.properties
+END
+ldapTemplateTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/spring-ldap/!svn/ver/716/tags/spring-ldap-1.3.1.RELEASE/test/integration-tests-sunone/src/test/resources/conf/ldapTemplateTestContext.xml
+END
