@@ -48,7 +48,7 @@ public final class OdmManagerImpl implements OdmManager {
     // The converter manager to use to translate values between LDAP and Java
     private final ConverterManager converterManager;
     
-    private static String OBJECT_CLASS_ATTRIBUTE="objectclass";
+    private static String OBJECT_CLASS_ATTRIBUTE="objectClass";
     private static CaseIgnoreString OBJECT_CLASS_ATTRIBUTE_CI=new CaseIgnoreString(OBJECT_CLASS_ATTRIBUTE);
     
     private static final class EntityData {
@@ -189,9 +189,15 @@ public final class OdmManagerImpl implements OdmManager {
             LOG.debug(String.format("Updating entry - %s$1", entry));
         }
         
+        // Workaround for https://jira.springsource.org/browse/LDAP-228 until it's fixed
+        /*
         DirContextAdapter context = new DirContextAdapter(getId(entry));
         mapToContext(entry, context);
         ldapTemplate.rebind(context);
+        */
+        DirContextOperations context = (DirContextOperations) ldapTemplate.lookup(getId(entry));
+        mapToContext(entry, context);
+        ldapTemplate.modifyAttributes(context);
     }
 
     /*

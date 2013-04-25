@@ -15,7 +15,7 @@ import org.springframework.ldap.odm.annotations.Id;
  * Automatically generated to represent the LDAP object classes
  * "organizationalunit", "top".
  */
-@Entry(objectClasses = { "organizationalunit", "top" })
+@Entry(objectClasses = { "organizationalUnit", "top" })
 public final class OrganizationalUnit {
 
     @Id
@@ -72,6 +72,10 @@ public final class OrganizationalUnit {
 
     public String getStreet() {
         return street;
+    }
+
+    public void setStreet(String st) {
+        street = st;
     }
 
     public String getDescription() {

@@ -362,6 +362,20 @@ public final class TestLdap {
         assertEquals(william, readWilliam);
     }
 
+    // Update a container, read it back and check it is what we'd expect.
+    @Test
+    public void updateContainer() throws Exception {
+        OrganizationalUnit container = ouTestData[OrganizationalName.DOCTORS.getIndex()];
+        String street = container.getStreet();
+        container.setStreet("891061 Main Street");
+        odmManager.update(container);
+        OrganizationalUnit readContainer = odmManager.read(OrganizationalUnit.class, container.getDn());
+        assertEquals(container, readContainer);
+        // Revert
+        container.setStreet(street);
+        odmManager.update(container);
+    }
+
     private Person[] deleteData = {
             personTestData[PersonName.JON.getIndex()],
             personTestData[PersonName.TOM.getIndex()], personTestData[PersonName.DAVROS.getIndex()], };

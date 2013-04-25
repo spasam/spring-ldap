@@ -14,7 +14,7 @@ import org.springframework.ldap.odm.annotations.Transient;
 import org.springframework.ldap.odm.annotations.Attribute.Type;
 
 // Simple LDAP entry for testing 
-@Entry(objectClasses = { "inetorgperson", "organizationalperson", "person", "top" })
+@Entry(objectClasses = { "inetOrgPerson", "organizationalPerson", "person", "top" })
 public final class Person {
     public Person() {
     }
