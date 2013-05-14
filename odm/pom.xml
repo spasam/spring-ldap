@@ -11,6 +11,7 @@
     <artifactId>spring-ldap-odm</artifactId>
     <packaging>jar</packaging>
     <name>Spring LDAP ODM</name>
+    <version>1.3.1.RELEASE-vz-2</version>
     <description>Object Directory Mapping framework</description>
     <url>http://springframework.org/ldap</url>
     <inceptionYear>2009</inceptionYear>
@@ -83,13 +84,13 @@
         <dependency>
             <groupId>org.springframework.ldap</groupId>
             <artifactId>spring-ldap-core</artifactId>
-            <version>${project.version}</version>
+            <version>1.3.1.RELEASE</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>org.springframework.ldap</groupId>
             <artifactId>spring-ldap-core-tiger</artifactId>
-            <version>${project.version}</version>
+            <version>1.3.1.RELEASE</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
@@ -106,7 +107,7 @@
         <dependency>
             <groupId>org.springframework.ldap</groupId>
             <artifactId>spring-ldap-test</artifactId>
-            <version>${project.version}</version>
+            <version>1.3.1.RELEASE</version>
             <scope>test</scope>
         </dependency>
         <dependency>

@@ -62,6 +62,16 @@ public interface OdmManager {
     void delete(Object entry);
 
     /**
+     * Delete an entry from the LDAP directory recursively.
+     * 
+     * @param dn The DN of the entry to delete.
+     * @param recursive Whether to recursively delete or not.
+     * 
+     * @exception org.springframework.ldap.NamingException on error.
+     */
+    void delete(String dn, boolean recursive);
+
+    /**
      * Find all entries in the LDAP directory of a given type.
      * 
      * @param <T> The Java type to return

@@ -78,27 +78,32 @@ import org.springframework.ldap.odm.annotations.Transient;
         }
 
         // Get field meta-data - the @Attribute annotation
-        Field[] fields = clazz.getDeclaredFields();
-        for (Field field : fields) {
-            // So we can write to private fields
-            field.setAccessible(true);
+        Class<?> cls = clazz;
+        do {
+            Field[] fields = cls.getDeclaredFields();
+            for (Field field : fields) {
+                // So we can write to private fields
+                field.setAccessible(true);
 
-            // Skip transient and synthetic fields
-            if (field.getAnnotation(Transient.class) != null || field.isSynthetic()) {
-                continue;
-            }
-            
-            AttributeMetaData currentAttributeMetaData=new AttributeMetaData(field);
-            if (currentAttributeMetaData.isId()) {
-                if (idAttribute!=null) {
-                    // There can be only one id field
-                    throw new MetaDataException(
-                          String.format("You man have only one field with the %1$s annotation in class %2$s", Id.class, clazz));
+                // Skip transient and synthetic fields
+                if (field.getAnnotation(Transient.class) != null || field.isSynthetic()) {
+                    continue;
                 }
-                idAttribute=currentAttributeMetaData;
+                
+                AttributeMetaData currentAttributeMetaData=new AttributeMetaData(field);
+                if (currentAttributeMetaData.isId()) {
+                    if (idAttribute!=null) {
+                        // There can be only one id field
+                        throw new MetaDataException(
+                              String.format("You man have only one field with the %1$s annotation in class %2$s", Id.class, clazz));
+                    }
+                    idAttribute=currentAttributeMetaData;
+                }
+                fieldToAttribute.put(field, currentAttributeMetaData);
             }
-            fieldToAttribute.put(field, currentAttributeMetaData);
-        }
+
+            cls = cls.getSuperclass();
+        } while (cls != null && !cls.equals(Object.class));
 
         if (idAttribute == null) {
             throw new MetaDataException(

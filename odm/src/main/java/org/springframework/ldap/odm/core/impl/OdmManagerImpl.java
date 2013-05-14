@@ -43,7 +43,7 @@ public final class OdmManagerImpl implements OdmManager {
     private static final Log LOG = LogFactory.getLog(OdmManagerImpl.class);
    
     // The link to the LDAP directory
-    private final LdapOperations ldapTemplate;
+    protected final LdapOperations ldapTemplate;
 
     // The converter manager to use to translate values between LDAP and Java
     private final ConverterManager converterManager;
@@ -215,6 +215,19 @@ public final class OdmManagerImpl implements OdmManager {
         ldapTemplate.unbind(getId(entry));
     }
 
+    /*
+     * (non-Javadoc)
+     * 
+     * @see org.springframework.ldap.odm.core.OdmManager#delete(javax.naming.Name)
+     */
+    public void delete(String dn, boolean recursive) {
+        if (LOG.isDebugEnabled()) {
+            LOG.debug(String.format("Deleting %s$1", dn));
+        }
+        
+        ldapTemplate.unbind(dn, recursive);
+    }
+
     private Name getId(Object entry) {
         try {
             return (Name)getEntityData(entry.getClass()).metaData.getIdAttribute().getField().get(entry);
@@ -281,7 +294,7 @@ public final class OdmManagerImpl implements OdmManager {
      * @param context - The LDAP context to store the converted entry
      * @throws javax.naming.NamingEnumeration on error.
      */
-    private void mapToContext(Object entry, DirContextOperations context) {
+    protected void mapToContext(Object entry, DirContextOperations context) {
         ObjectMetaData metaData=getEntityData(entry.getClass()).metaData;
         
         // Object classes are set from the metadata obtained from the @Entity annotation
